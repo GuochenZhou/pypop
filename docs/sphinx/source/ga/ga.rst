@@ -22,5 +22,6 @@ Some Applications
 `[2025-Science Robotics] <https://www.science.org/doi/full/10.1126/scirobotics.adr6472>`_,
 `[2024-TRO] <https://ieeexplore.ieee.org/document/10598230>`_,
 `[2022-TRO] <https://ieeexplore.ieee.org/document/9793615>`_,
+`[2022-TRO] <https://ieeexplore.ieee.org/document/9775992>`_,
 `[2022-ICRA] <https://ieeexplore.ieee.org/abstract/document/9811765>`_,
 etc.
